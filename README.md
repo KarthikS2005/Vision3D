@@ -1,6 +1,7 @@
-Vision3D Optimized - Implementation Walkthrough
+echo "Vision3D Optimized - Implementation Walkthrough"
 🎉 Project Overview
-I've successfully created a complete, optimized text-to-3D generation application with both frontend and backend components. The project is located at:
+I've successfully created a complete, 
+optimized text-to-3D generation application with both frontend and backend components. The project is located at:
 
 📁 Location: c:\Users\karthik S\playground\usingdjango\vision3d_optimized\
 
